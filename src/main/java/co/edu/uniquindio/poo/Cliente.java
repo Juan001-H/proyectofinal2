@@ -8,7 +8,7 @@ public class Cliente{
     public Cliente(String Name, String LastName){
 
         this.Name = Name;
-        this.LastNAme = LastNAme;
+        this.LastName = LastName;
     }
 }
 
